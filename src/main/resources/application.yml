@@ -1,0 +1,9 @@
+socket:
+  port: 4433
+  ip: 192.168.5.211
+  keepalive: true
+  backlog: 100
+  core-pool-size: 20
+  max-pool-size: 30
+  queue-capacity: 20
+  keep-alive-seconds: 60
